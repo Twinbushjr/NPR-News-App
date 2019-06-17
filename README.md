@@ -1,7 +1,7 @@
 # NPR-News-App
 Demo:  https://npr-app.herokuapp.com/
 
-App scrapes news articles from npr.org and allows users to save and leave comments about those articles.
+App scrapes news articles from npr.org and allows users to save and leave comments about those articles.<br>
 Users May also delete comments if they please.
 
 NPM Packages used:
