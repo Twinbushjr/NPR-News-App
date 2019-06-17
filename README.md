@@ -8,4 +8,8 @@ NPM Packages used:
 
 <ul>
   <li>Express</li>
+  <li>Axios</li>
+  <li>Request</li>
+  <li>Body-Parser</li>
+  <li>Cheerio</li>
 </ul>
